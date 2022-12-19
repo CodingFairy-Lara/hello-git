@@ -5,5 +5,8 @@ public class Notification {
 	public void setAlarmSound() {
 		
 	}
-	
+		
+	public void setAlarm() {
+		
+	}
 }
