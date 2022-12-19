@@ -9,7 +9,7 @@ public class Main {
 	}
 	
 	public void master() {
-		
+		System.out.println("master!!!!");
 	}
 
 	public void feature() {
